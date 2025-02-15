@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jawadbutt861
+- 👋 Hi, I’m Jawadbutt
 - 👀 I’m interested in Web and App Development
 - 🌱 I’m currently learning Full Stack Development
 
